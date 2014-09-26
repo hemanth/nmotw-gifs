@@ -1,4 +1,4 @@
-# This is a collection of all the gifs that go into [http://nmotw.in](http://nmotw.in)
+#Collection of gifs from [http://nmotw.in](http://nmotw.in)
 
 #[address](http://nmotw.in/address)
 ![](http://nmotw.in/images/address/address.gif)
