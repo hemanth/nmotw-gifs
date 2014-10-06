@@ -63,6 +63,9 @@
 #[only](http://nmotw.in/only)
 ![](http://nmotw.in/images/only/only.gif)
 
+#[progress](http://nmotw.in/progress/)
+![](http://nmotw.in/images/progress/progress.gif)
+
 #[proxyquire](http://nmotw.in/proxyquire)
 ![](http://nmotw.in/images/proxyquire/proxyquire.gif)
 
