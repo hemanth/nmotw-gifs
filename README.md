@@ -27,6 +27,9 @@
 #[have](http://nmotw.in/have)
 ![](http://nmotw.in/images/have/have.gif)
 
+#[is](http://nmotw.in/is)
+![](http://nmotw.in/images/is/is.gif)
+
 #[json-mask](http://nmotw.in/json-mask)
 ![](http://nmotw.in/images/json-mask/json-mask.gif)
 
