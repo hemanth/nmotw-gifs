@@ -27,6 +27,9 @@
 #[have](http://nmotw.in/have)
 ![](http://nmotw.in/images/have/have.gif)
 
+#[http-teapot](http://nmotw.in/http-teapot)
+![](http://nmotw.in/images/http-teapot/http-teapot.gif)
+
 #[is](http://nmotw.in/is)
 ![](http://nmotw.in/images/is/is.gif)
 
