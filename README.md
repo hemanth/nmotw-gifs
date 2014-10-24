@@ -72,6 +72,9 @@
 #[progress](http://nmotw.in/progress/)
 ![](http://nmotw.in/images/progress/progress.gif)
 
+#[propagate](http://nmotw.in/propagate/)
+![](http://nmotw.in/images/propagate/propagate.gif)
+
 #[proxyquire](http://nmotw.in/proxyquire)
 ![](http://nmotw.in/images/proxyquire/proxyquire.gif)
 
