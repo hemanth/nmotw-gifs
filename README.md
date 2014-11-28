@@ -63,6 +63,9 @@
 #[nom](http://nmotw.in/nom)
 ![](http://nmotw.in/images/nom/nom.gif)
 
+#[npm-check-updates](http://nmotw.in/npm-check-updates)
+![](http://nmotw.in/images/npm-check-updates/npm-check-updates.gif)
+
 #[npm-clone](http://nmotw.in/npm-clone.gif)
 ![](http://nmotw.in/images/npm-clone/npm-clone.gif)
 
