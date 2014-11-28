@@ -63,6 +63,9 @@
 #[nom](http://nmotw.in/nom)
 ![](http://nmotw.in/images/nom/nom.gif)
 
+#[npm-clone](http://nmotw.in/npm-clone.gif)
+![](http://nmotw.in/images/npm-clone/npm-clone.gif)
+
 #[omelette](http://nmotw.in/omelette)
 ![](http://nmotw.in/images/omelette/omelette.gif)
 
