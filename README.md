@@ -21,6 +21,9 @@
 #[degenerator](http://nmotw.in/degenerator)
 ![](http://nmotw.in/images/degenerator/degenerator.gif)
 
+#[fake-identity](http://nmotw.in/images/fake-identity/fake-identity)
+![](http://nmotw.in/images/fake-identity/fake-identity.gif)
+
 #[git-promise](http://nmotw.in/git-promise)
 ![](http://nmotw.in/images/git-promise/git-promise.gif)
 
