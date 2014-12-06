@@ -102,6 +102,9 @@
 #[time-require](http://nmotw.in/time-require)
 ![](http://nmotw.in/images/time-require/time-require.gif)
 
+#[tldr](http://nmotw.in/tldr)
+![](http://nmotw.in/images/tldr/tldr.gif)
+
 #[verbal-expressions](http://nmotw.in/verbal-expressions)
 ![](http://nmotw.in/images/verbal-expressions/verbal-expressions.gif)
 
