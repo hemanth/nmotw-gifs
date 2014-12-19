@@ -105,6 +105,9 @@
 #[tldr](http://nmotw.in/tldr)
 ![](http://nmotw.in/images/tldr/tldr.gif)
 
+#[treeify](http://nmotw.in/treeify)
+![](http://nmotw.in/images/treeify/treeify.gif)
+
 #[verbal-expressions](http://nmotw.in/verbal-expressions)
 ![](http://nmotw.in/images/verbal-expressions/verbal-expressions.gif)
 
