@@ -48,6 +48,9 @@
 #[lowdb](http://nmotw.in/lowdb)
 ![](http://nmotw.in/images/lowdb/lowdb.gif)
 
+#[malarkey](http://nmotw.in/malarkey/)
+![](http://nmotw.in/images/malarkey/malarkey.gif)
+
 #[modmod](http://nmotw.in/modmod)
 ![](http://nmotw.in/images/modmod/modmod.gif)
 
