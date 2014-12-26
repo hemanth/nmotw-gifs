@@ -84,6 +84,9 @@
 #[only](http://nmotw.in/only)
 ![](http://nmotw.in/images/only/only.gif)
 
+#[printf](http://nmotw.in/printf)
+![](http://nmotw.in/images/printf/printf.gif)
+
 #[progress](http://nmotw.in/progress/)
 ![](http://nmotw.in/images/progress/progress.gif)
 
