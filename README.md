@@ -1,4 +1,4 @@
-#Collection of gifs from [http://nmotw.in](http://nmotw.in)
+# Collection of gifs from [http://nmotw.in](http://nmotw.in)
 
 #[address](http://nmotw.in/address)
 ![](http://nmotw.in/images/address/address.gif)
@@ -14,6 +14,9 @@
 
 #[configstore](http://nmotw.in/configstore)
 ![](http://nmotw.in/images/configstore/configstore.gif)
+
+#[css-explain](http://nmotw.in/css-explain)
+![](http://nmotw.in/images/css-explain/css-explain.gif)
 
 #[dateformat](http://nmotw.in/dateformat)
 ![](http://nmotw.in/images/dateformat/dateformat.gif)
