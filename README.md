@@ -39,6 +39,9 @@
 #[is](http://nmotw.in/is)
 ![](http://nmotw.in/images/is/is.gif)
 
+#[isomorphic-fetch](http://nmotw.in/isomorphic-fetch)
+![](http://nmotw.in/images/isomorphic-fetch/isomorphic-fetch.gif)
+
 #[json-mask](http://nmotw.in/json-mask)
 ![](http://nmotw.in/images/json-mask/json-mask.gif)
 
