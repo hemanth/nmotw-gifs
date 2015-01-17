@@ -105,6 +105,9 @@
 #[rhyme](http://nmotw.in/rhyme)
 ![](http://nmotw.in/images/rhyme/rhyme.gif)
 
+#[safe-json-parse](http://nmotw.in/safe-json-parse)
+![](http://nmotw.in/images/safe-json-parse/safe-json-parse.gif)
+
 #[slug](http://nmotw.in/slug)
 ![](http://nmotw.in/images/slug/slug.gif)
 
